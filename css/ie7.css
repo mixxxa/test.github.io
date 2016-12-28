@@ -1,0 +1,15 @@
+.login_btn {
+	bottom: 4px;
+}
+.nav_left li a:link {
+	display: block;
+	height: 34px;
+	padding-top: 8px;
+	line-height: 15px;
+}
+.social {
+	top: 8px;
+}
+.create {
+	top: 36px;
+}
